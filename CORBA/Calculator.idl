@@ -1,0 +1,7 @@
+module CalculatorApp {
+    interface Calculator {
+        float add(in float a , in float b );
+        float multiply(in float x , in float y);
+    };
+};
+
